@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(https://fonts.googleapis.com/css?family=Just+Another+Hand);
+@import url(https://fonts.googleapis.com/css?family=Loved+by+the+King);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300);
+
+body {background-color: snow;}
+P {text-align:left; color: black; font-family: 'Source Sans Pro', sans-serif;}
+h1 {text-align: center; color: DarkGreen; font-family: 'Loved by the King', cursive;}
+h4 {text-align: left; color: Coral; font-family: 'Loved by the King', cursive;}
+h3{text-align: center; color: black; font-family: 'Source Sans Pro', sans-serif;}
+ul {text-align: left; color: black; font-family: 'Source Sans Pro', sans-serif;}
+
+#navigationbar {text-align: center; font-family: 'Source Sans Pro', sans-serif;}
